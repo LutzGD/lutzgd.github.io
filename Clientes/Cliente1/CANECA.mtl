@@ -10,7 +10,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 1
-map_Kd \\server2\scanner\Maurício\MAU\Estudos\Caneca\Cliente123.jpg
+map_Kd //github.com/LutzGD/lutzgd.github.io/blob/main/Clientes/Cliente1/Cliente1.jpg
 
 newmtl Lisa
 Ns 258.823529
