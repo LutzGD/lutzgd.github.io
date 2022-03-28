@@ -114,6 +114,12 @@ input, select, textarea {
 
 /* Type */
 
+.mini_logo {
+width: 12px;
+height: 12px;
+margin:0 5px 0;
+}
+
 	body {
 		color: #999999;
 	}
