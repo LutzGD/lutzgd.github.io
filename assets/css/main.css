@@ -116,7 +116,11 @@ input, select, textarea {
 
 .mini_logo {
 width: 12px;
-height: 12px;
+margin:0 5px 0;
+}
+
+.ico {
+width: 50px;
 margin:0 5px 0;
 }
 
