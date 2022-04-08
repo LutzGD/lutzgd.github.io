@@ -115,9 +115,13 @@ input, select, textarea {
 /* Type */
 
 .mini_logo {
-width: 12px;
-margin:0 5px 0;
+width: 18px;
+position:relative;
+  top:4;
+  right:4;
+margin:5px center;
 }
+
 
 .ico {
 width: 20%;
