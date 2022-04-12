@@ -140,6 +140,7 @@ margin:0 5px 0;
 
 			html, input, select, textarea {
 				font-size: 13pt;
+				padding: 0 25% 0;
 			}
 
 		}
