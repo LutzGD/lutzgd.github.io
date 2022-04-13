@@ -85,7 +85,7 @@ input, select, textarea {
 
 		html, body {
 			min-width: 320px;
-			padding: 0 1% 0;
+			padding: 0 0 0;
 		}
 
 	}
@@ -123,11 +123,22 @@ position:relative;
 margin:5px center;
 }
 
-
+@media screen and (max-width: 1680px) {
 .ico {
-width: 20%;
+width: 12%;
 margin:0 5px 0;
 }
+}
+
+@media screen and (max-width: 1280px) {
+.ico {
+width: 8%;
+margin:0 5px 0;
+}
+}
+
+ @media screen and (max-width: 1680px) {
+	 
 
 	body {
 		color: #999999;
@@ -141,7 +152,7 @@ margin:0 5px 0;
 
 			html, input, select, textarea {
 				font-size: 13pt;
-				padding: 0 25% 0;
+				padding: 0 15% 0;
 			}
 
 		}
@@ -150,7 +161,7 @@ margin:0 5px 0;
 
 			html, input, select, textarea {
 				font-size: 12pt;
-				padding: 0 22% 0;
+				padding: 0 10% 0;
 			}
 
 		}
@@ -159,7 +170,7 @@ margin:0 5px 0;
 
 			html, input, select, textarea {
 				font-size: 11pt;
-				padding: 0 1% 0;
+				padding: 0 0 0;
 			}
 
 		}
