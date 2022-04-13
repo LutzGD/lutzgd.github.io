@@ -85,6 +85,7 @@ input, select, textarea {
 
 		html, body {
 			min-width: 320px;
+			padding: 0 1% 0;
 		}
 
 	}
@@ -149,6 +150,7 @@ margin:0 5px 0;
 
 			html, input, select, textarea {
 				font-size: 12pt;
+				padding: 0 22% 0;
 			}
 
 		}
@@ -157,6 +159,7 @@ margin:0 5px 0;
 
 			html, input, select, textarea {
 				font-size: 11pt;
+				padding: 0 1% 0;
 			}
 
 		}
