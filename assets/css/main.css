@@ -125,17 +125,25 @@ margin:5px center;
 
 @media screen and (max-width: 1680px) {
 .ico {
-width: 12%;
+width: 5%;
 margin:0 5px 0;
 }
 }
 
 @media screen and (max-width: 1280px) {
 .ico {
-width: 8%;
+width: 6%;
 margin:0 5px 0;
 }
 }
+
+@media screen and (max-width: 360px) {
+.ico {
+width: 25%;
+margin:0 5px 0;
+}
+}
+
 
  @media screen and (max-width: 1680px) {
 	 
